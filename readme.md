@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js Exercise for Geometries
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
